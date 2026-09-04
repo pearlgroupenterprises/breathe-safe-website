@@ -1,0 +1,24 @@
+.DS_Store
+.env
+.env.*
+node_modules/
+*.log
+*.zip
+
+# Local tooling/runtime state
+.openai/
+.codex/
+.agents/
+.sites/
+.netlify/
+.vercel/
+
+# Caches and generated output
+.cache/
+.parcel-cache/
+.vite/
+coverage/
+__pycache__/
+.pytest_cache/
+*.tmp
+*.temp
